@@ -2,7 +2,8 @@ Hi, I’m @Dany3264, or just call me Dany.
 I’m interested in start my career as a junior data analyst.
 I’m currently learning better ways to plot and report, make it pretty!
 
-I come from the fascinating world of professional kitchens, which had more in common with data science than i initially thought.From costs, ingredients, amounts, prices, rotation/
+I come from the fascinating world of professional kitchens, which had more in common with data science than I initially thought. 
+From costs, ingredients, amounts, prices, rotation/
 dates, and more, to a very fast-paced, hectic service throughout the mornings and nights. I started self-learning data science/ data analysis almost two years ago and slowly came/
 to understand how businesses create significant changes with the power of data. I find it particularly fscinating how closely related it is to find meaningful insights int he analysis/
 much like creating a new dish.
