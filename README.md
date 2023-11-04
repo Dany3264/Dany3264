@@ -8,7 +8,7 @@ dates, and more, to a very fast-paced, hectic service throughout the mornings an
 to understand how businesses create significant changes with the power of data. I find it particularly fscinating how closely related it is to find meaningful insights int he analysis/
 much like creating a new dish.
 
-You bgin with a bunch of raw ingredients, then consider different factors such as weather, season, avaliabilty, people's sentiments, production costs, profit margins, production time and efficiency/
+You begin with a bunch of raw ingredients, then consider different factors such as weather, season, avaliabilty, people's sentiments, production costs, profit margins, production time and efficiency/
 when it comes to serving during service, it's worth nothing if it's the most amazing dish in the world; guests must have their food perfectly done and served within 10-15 minutes.
 Would you wait 1 hour and 40 minutes because we need to marinate each steak for an hour? I wouldn't either!.
 After extensive testing and feedback from the team, we present a variety of ideas and solutions to the primary stakeholders (the owner or management team), guided by our executive and sous chefs team.
